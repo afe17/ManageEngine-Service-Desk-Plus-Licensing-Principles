@@ -106,7 +106,7 @@ Read-only gözlem komutları:
 
 ## Araştırma durumu
 
-**Durum:** Aktif / devam ediyor  
+**Durum:** Durduruldu.
 **Son dokümantasyon güncellemesi:** 10 Eylül 2026
 
 Şu anki en güçlü çalışma modeli, evaluation bilgisinin tek bir SQL satırından ziyade **dosya tabanlı ürün/lisans metadata + Prevalent Java sınıfları + runtime task/log katmanı** arasında işlendiği yönündedir. PostgreSQL tarafındaki lisans tabloları ürünün genel lisans envanterinin parçasıdır; fakat mevcut gözlemler evaluation expiry kararının yalnızca bu tablolardan türediğini göstermemektedir.
